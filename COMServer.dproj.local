@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.787,D:\Programme\delphi xe4\Projekte\COMServer\alpha1\Transport.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.775,D:\Programme\delphi xe4\Projekte\COMServer\alpha1\COMServer.dproj=C:\Users\wultna\Documents\RAD Studio\Projekte\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.131,D:\Programme\delphi xe4\Projekte\COMServer\alpha1\Com.pas=D:\Programme\delphi xe4\Projekte\COMServer\alpha1\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.120,=D:\Programme\delphi xe4\Projekte\COMServer\alpha1\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.353,=D:\Programme\delphi xe4\Projekte\COMServer\alpha1\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.559,D:\Programme\delphi xe4\Projekte\COMServer\alpha1\Transport.pas=D:\Programme\delphi xe4\Projekte\COMServer\alpha1\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.466,=C:\Users\wultna\Documents\RAD Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.097,D:\Programme\delphi xe4\Projekte\COMServer\alpha1\MainForm.pas=C:\Users\wultna\Documents\RAD Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.097,D:\Programme\delphi xe4\Projekte\COMServer\alpha1\MainForm.dfm=C:\Users\wultna\Documents\RAD Studio\Projekte\Unit1.dfm</Transaction>
+    <Transaction>2014.09.24 22:53:10.354,D:\Programme\delphi xe4\github\COMService\COMServer.dproj=D:\Programme\delphi xe4\Projekte\COMServer\alpha1\COMServer.dproj</Transaction>
+    <Transaction>2014.09.24 22:53:27.378,D:\Programme\delphi xe4\github\COMService\Com.pas=D:\Programme\delphi xe4\Projekte\COMServer\alpha1\Com.pas</Transaction>
+    <Transaction>2014.09.24 22:53:46.450,D:\Programme\delphi xe4\github\COMService\MainForm.dfm=D:\Programme\delphi xe4\Projekte\COMServer\alpha1\MainForm.dfm</Transaction>
+    <Transaction>2014.09.24 22:53:46.450,D:\Programme\delphi xe4\github\COMService\MainForm.pas=D:\Programme\delphi xe4\Projekte\COMServer\alpha1\MainForm.pas</Transaction>
+  </Transactions>
+</BorlandProject>
