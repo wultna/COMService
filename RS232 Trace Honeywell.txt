@@ -1,0 +1,43 @@
+Initialisierungskommando:
+"MPI;D:0;F:FF" als ASCII gefolgt von 0d 0a als HEX (CR und LF)
+
+------------------------------------------
+
+Leser:			Empfang Tisch
+Datenträgernummer:	200
+Berechtigt:		Ja
+
+MPC;D:5505;S:4;V:04;T:";K:00200;C:232
+MPC;D:5505;S:4;V:09;C:080
+
+------------------------------------------
+
+Leser:			Ausgang
+Datenträgernummer:	200
+Berechtigt:		Nein
+
+MPC;D:5506;S:4;V:07;T:";K:00200;C:236
+MPC;D:5506;S:4;V:09;C:081
+
+------------------------------------------
+
+Leser:			Ausgang
+Datenträgernummer:	200
+Berechtigt:		Ja
+
+MPC;D:5506;S:4;V:04;T:";K:00200;C:233
+MPC;D:5506;S:4;V:09;C:081
+
+------------------------------------------
+
+Leser:			Eingang
+Datenträgernummer:	200
+Berechtigt:		Ja
+
+MPC;D:0009;S:2;V:00;C:063
+MPC;D:0072;S:5;V:01;C:067
+MPC;D:5506;S:4;V:04;T:";K:00200;C:233
+MPC;D:5506;S:4;V:09;C:081
+
+------------------------------------------
+
